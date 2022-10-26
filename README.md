@@ -5,7 +5,7 @@
 
 # 💫 Acerca de mi:
 Me gusta trabajar en equipo, pienso que es el mejor acoplamiento a la hora de desarrollar. Constantemente ando investigando y aprendiendo nuevas tecnologías para enriquecer aun más mi conocimiento. Me desafío resolviendo problemas hasta encontrar la solución, porque soy nun amante a los números y a los códigos.
-Me encanta poder compartir conocimeintos con los demás y de igual manera poder resivirlos, porque nosotros como seres humanos nunca vamos a dejar de aprender.
+Me encanta poder compartir conocimientos con los demás y de igual manera poder resivirlos, ya que nosotros como seres humanos nunca vamos a dejar de aprender.
 
 # 🌐 Redes Sociales:
 <p align="left">
