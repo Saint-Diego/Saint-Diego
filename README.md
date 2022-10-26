@@ -1,4 +1,4 @@
-<img height="250" width="950" src="https://i0.wp.com/indexdesarrollo.com/wp-content/uploads/2017/05/lenguajes-de-programacion-web-frontend.png?fit=1044%2C543&ssl=1">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i0.wp.com/indexdesarrollo.com/wp-content/uploads/2017/05/lenguajes-de-programacion-web-frontend.png?fit=1044%2C543&ssl=1" height="430" width="827">
 
 <h1 align="center">Hola 👋, Mi nombre es Diego López</h1>
 <h3 align="center">Full Stack Web Developement</h3>
