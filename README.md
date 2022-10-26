@@ -1,3 +1,4 @@
+<img height="250" width="950" src="https://i0.wp.com/indexdesarrollo.com/wp-content/uploads/2017/05/lenguajes-de-programacion-web-frontend.png?fit=1044%2C543&ssl=1">
 
 <h1 align="center">Hola 👋, Mi nombre es Diego López</h1>
 <h3 align="center">Full Stack Web Developement</h3>
@@ -43,6 +44,7 @@ Me encanta poder compartir conocimientos con los demás y de igual manera poder 
 # 📫 Contacto
 
 **Email:** ing.diegolopezb@gmail.com
+
 **Phone:** +57 3122878866
 
 <p align="left">
