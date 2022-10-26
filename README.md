@@ -38,6 +38,8 @@ Me encanta poder compartir conocimientos con los demás y de igual manera poder 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saint-Diego&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="Saint-Diego"/></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saint-Diego&theme=github-dark-blue)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saint-Diego&layout=compact)](#)
 
 ---
