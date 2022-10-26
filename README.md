@@ -1,16 +1,17 @@
 
 
-<h1 align="center">Hi 👋, I'm Felipe Tau</h1>
-<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
+<h1 align="center">Hola 👋, Mi nombre es Diego López</h1>
+<h3 align="center">Full Stack Web Developement</h3>
+<h3 align="center">Colombia</h3>
 
 🤝I believe that teamwork is the key to success, we can all learn from one another. I love to share ideas and I also love to help when someone has a problem that they don't know how to solve. (And in case I don't know it, we can find the answer together)
 
 I love to challenge myself and solve problems. And that's something that in programming I have to do constantly simply by nature.
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">Conectate conmigo:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/felipe-tau/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-tau/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/ingdiegolopezb89/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ingdiegolopezb89/" height="30" width="40" />
 </a>
 </p>
 
