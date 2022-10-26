@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i0.wp.com/indexdesarrollo.com/wp-content/uploads/2017/05/lenguajes-de-programacion-web-frontend.png?fit=1044%2C543&ssl=1" height="430" width="950">
+<img align="center" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.salleurl.edu/sites/default/files/styles/capsalera_node/public/content/nodes/View%20Page/image/23125/43942/data-science-big-data-analytics-la-salle-url.jpg" height="250" width="1000">
 
 <h1 align="center">Hola 👋, Mi nombre es Diego López</h1>
 <h3 align="center">Full Stack Web Developement</h3>
